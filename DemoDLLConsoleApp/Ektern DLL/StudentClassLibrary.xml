@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StudentClassLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:StudentClassLibrary.Student">
+            <summary>
+            Student class indeholder data om de studerende
+            navn mv.
+            </summary>
+        </member>
+        <member name="M:StudentClassLibrary.Student.MyNameText">
+            <summary>
+            Denne metode returnere navnet på den studerende
+            </summary>
+            <returns> "Mit navn: " mynavn </returns>
+        </member>
+    </members>
+</doc>
